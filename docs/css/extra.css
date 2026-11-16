@@ -1,0 +1,94 @@
+/* =========================================================
+   ESTILOS PERSONALIZADOS — MANUAL DELOG (MKDOCS READTHEDOCS)
+   ========================================================= */
+
+/* Ajuste de tabelas para evitar quebra de layout horizontal */
+.wy-nav-content table {
+    width: 100%;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    border-collapse: collapse;
+    margin-bottom: 1.5em;
+}
+
+.wy-nav-content table th,
+.wy-nav-content table td {
+    white-space: normal !important;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    vertical-align: top;
+    padding: 8px 10px;
+}
+
+/* Barra de ferramentas (Acessibilidade de Fonte e Impressão) */
+.toolbar-acessibilidade {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background-color: #f3f6f6;
+    border: 1px solid #e1e4e5;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin-bottom: 20px;
+}
+
+.toolbar-rodape {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-top: 1px solid #e1e4e5;
+    padding-top: 15px;
+    margin-top: 30px;
+}
+
+.btn-acessibilidade {
+    background-color: #2980b9;
+    color: #ffffff !important;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 0.85em;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none !important;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: background-color 0.2s ease;
+}
+
+.btn-acessibilidade:hover {
+    background-color: #1f6391;
+}
+
+.btn-imprimir {
+    background-color: #27ae60;
+}
+
+.btn-imprimir:hover {
+    background-color: #1e8449;
+}
+
+/* Regras exclusivas para impressão / salvar em PDF */
+@media print {
+    .wy-nav-side,
+    .wy-breadcrumbs,
+    .rst-footer-buttons,
+    .toolbar-acessibilidade,
+    .toolbar-rodape,
+    footer {
+        display: none !important;
+    }
+
+    .wy-nav-content-wrap {
+        margin-left: 0 !important;
+    }
+
+    .wy-nav-content {
+        max-width: 100% !important;
+        padding: 0 !important;
+    }
+}
