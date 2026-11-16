@@ -1,0 +1,15 @@
+/* Ajustes gerais de tipografia e espaçamento de leitura */
+.wy-nav-content {
+    max-width: 960px;
+}
+
+.rst-content .admonition {
+    margin-top: 1.2em;
+    margin-bottom: 1.2em;
+}
+
+/* Melhora visualização de fórmulas MathJax */
+.arithmatex {
+    overflow-x: auto;
+    padding: 4px 0;
+}
