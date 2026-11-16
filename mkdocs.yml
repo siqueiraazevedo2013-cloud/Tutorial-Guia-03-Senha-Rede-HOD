@@ -1,0 +1,38 @@
+site_name: "Guia 03 — Senha-Rede e HOD (Tela Preta)"
+site_description: "Gestão de acessos para cadastradores — Coleção de Boas Práticas para Melhoria da Experiência do Usuário"
+site_author: "Delog / MGI"
+
+theme:
+  name: readthedocs
+  locale: pt_BR
+  highlightjs: true
+  navigation_depth: 3
+
+nav:
+  - Início e Diagnóstico Rápido: index.md
+  - 1. Cadastro e Habilitação Inicial: 01-cadastro-e-habilitacao.md
+  - 2. Senhas, Inatividade e Desbloqueios: 02-senhas-e-desbloqueios.md
+  - 3. Alterações, Exclusões e Cadastradores: 03-alteracoes-exclusoes-e-cadastradores.md
+  - 4. Suporte, Boas Práticas e Glossário: 04-suporte-boas-praticas-e-glossario.md
+  - Manual Completo (Impressão): manual-completo.md
+
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra_css:
+  - custom.css
+  - css/extra.css
+
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
