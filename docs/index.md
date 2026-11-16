@@ -26,7 +26,9 @@ Cadastradores Gerais, Parciais e Locais, responsáveis institucionais pela gest�
 
 O **Senha-Rede** integra o controle de acesso às aplicações disponibilizadas pela Rede Serpro. O **HOD** (*Host On Demand*) permite acessar os sistemas conhecidos como “tela-preta” pelo navegador, sendo esse acesso controlado pelo Senha-Rede.
 
-Esta cartilha explica os procedimentos mais comuns para cadastrar usuários e cuidar dos acessos com segurança. A gestão adequada de cadastros e habilitações contribui para a segurança dos acessos, o registro de quem fez cada operação e a continuidade dos serviços.
+Esta cartilha explica os procedimentos mais comuns para cadastrar usuários e cuidar dos acessos com segurança. 
+
+A gestão adequada de cadastros e habilitações contribui para a segurança dos acessos, o registro de quem fez cada operação e a continuidade dos serviços.
 
 ## Responsabilidades Essenciais
 
