@@ -9,7 +9,7 @@ theme:
   navigation_depth: 3
 
 nav:
-  - Início e Diagnóstico Rápido: index.md
+  - Introdução Geral: index.md
   - 1. Cadastro e Habilitação Inicial: 01-cadastro-e-habilitacao.md
   - 2. Senhas, Inatividade e Desbloqueios: 02-senhas-e-desbloqueios.md
   - 3. Alterações, Exclusões e Cadastradores: 03-alteracoes-exclusoes-e-cadastradores.md
