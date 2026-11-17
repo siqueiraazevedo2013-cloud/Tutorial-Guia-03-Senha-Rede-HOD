@@ -1,94 +1,82 @@
 /* =========================================================
-   ESTILOS PERSONALIZADOS — MANUAL DELOG (MKDOCS READTHEDOCS)
+   BARRA DE FERRAMENTAS (ESTILO GUIA 01 — DELOG)
    ========================================================= */
-
-/* Ajuste de tabelas para evitar quebra de layout horizontal */
-.wy-nav-content table {
-    width: 100%;
-    table-layout: fixed;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    border-collapse: collapse;
-    margin-bottom: 1.5em;
-}
-
-.wy-nav-content table th,
-.wy-nav-content table td {
-    white-space: normal !important;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    vertical-align: top;
-    padding: 8px 10px;
-}
-
-/* Barra de ferramentas (Acessibilidade de Fonte e Impressão) */
 .toolbar-acessibilidade {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px;
-    background-color: #f3f6f6;
-    border: 1px solid #e1e4e5;
-    border-radius: 4px;
-    padding: 8px 12px;
-    margin-bottom: 20px;
-}
-
-.toolbar-rodape {
-    display: flex;
     justify-content: flex-end;
     align-items: center;
-    border-top: 1px solid #e1e4e5;
-    padding-top: 15px;
-    margin-top: 30px;
+    gap: 12px;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin-bottom: 18px;
+}
+
+.toolbar-label {
+    font-size: 0.95em;
+    color: #404040;
+    margin-right: 4px;
 }
 
 .btn-acessibilidade {
-    background-color: #2980b9;
-    color: #ffffff !important;
-    border: none;
-    border-radius: 3px;
-    padding: 5px 10px;
-    font-size: 0.85em;
-    font-weight: 600;
+    background-color: #ffffff;
+    color: #000000 !important;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 0.9em;
+    font-weight: 700;
     cursor: pointer;
     text-decoration: none !important;
     display: inline-flex;
     align-items: center;
-    gap: 5px;
-    transition: background-color 0.2s ease;
+    justify-content: center;
+    transition: all 0.2s ease;
 }
 
 .btn-acessibilidade:hover {
-    background-color: #1f6391;
+    background-color: #f3f4f6;
+    border-color: #9ca3af;
 }
 
 .btn-imprimir {
-    background-color: #27ae60;
+    background-color: #0056b3;
+    color: #ffffff !important;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 14px;
+    font-size: 0.9em;
+    font-weight: 600;
+    gap: 6px;
+    margin-left: 6px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
 .btn-imprimir:hover {
-    background-color: #1e8449;
+    background-color: #004494;
 }
 
-/* Regras exclusivas para impressão / salvar em PDF */
-@media print {
-    .wy-nav-side,
-    .wy-breadcrumbs,
-    .rst-footer-buttons,
-    .toolbar-acessibilidade,
-    .toolbar-rodape,
-    footer {
-        display: none !important;
-    }
+/* Destaque em terracota/vermelho para o bloco Público-Alvo */
+.bloco-publico-alvo {
+    color: #c04a3e;
+    margin-top: 14px;
+    margin-bottom: 20px;
+}
 
-    .wy-nav-content-wrap {
-        margin-left: 0 !important;
-    }
+.bloco-publico-alvo .titulo-publico {
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    display: block;
+}
 
-    .wy-nav-content {
-        max-width: 100% !important;
-        padding: 0 !important;
-    }
+.bloco-publico-alvo ul {
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+
+.bloco-publico-alvo ul li {
+    color: #c04a3e;
+    margin-bottom: 4px;
 }
