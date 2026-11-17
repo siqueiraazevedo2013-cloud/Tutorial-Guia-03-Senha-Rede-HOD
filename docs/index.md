@@ -90,7 +90,7 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 
 ## Onde Fica Cada Rotina
 
-Mapa esquemático das rotinas citadas nesta cartilha dentro do módulo **`ADMUSU · Administra Usuário (Senha-Rede)`**:
+Mapa esquemático das rotinas citadas nesta cartilha. É uma representação de navegação, não uma captura de tela, e não contém dados pessoais.
 
 | `ATZUSU` · Atualiza Usuário | `HABUSU` · Habilita Usuário | `HABCAD` · Habilita Cadastrador |
 | :--- | :--- | :--- |
