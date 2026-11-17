@@ -18,22 +18,20 @@
 * Equipe da Central de Atendimento
 </div>
 
-## Finalidade e Contexto
+### Finalidade e Contexto
 
 O **Senha-Rede** integra o controle de acesso às aplicações disponibilizadas pela Rede Serpro. O **HOD** (*Host On Demand*) permite acessar os sistemas conhecidos como “tela-preta” pelo navegador, sendo esse acesso controlado pelo Senha-Rede.
 
-Esta cartilha explica os procedimentos mais comuns para cadastrar usuários e cuidar dos acessos com segurança. 
+Esta cartilha explica os procedimentos mais comuns para cadastrar usuários e cuidar dos acessos com segurança. A gestão adequada de cadastros e habilitações contribui para a segurança dos acessos, o registro de quem fez cada operação e a continuidade dos serviços.
 
-A gestão adequada de cadastros e habilitações contribui para a segurança dos acessos, o registro de quem fez cada operação e a continuidade dos serviços.
-
-## Responsabilidades Essenciais
+### Responsabilidades Essenciais
 
 * **Usuário:** manter seus dados de acesso em segredo e informar problemas ao cadastrador responsável.
 * **Chefia ou unidade autorizadora:** registrar o pedido de acesso e indicar os perfis necessários às atividades do usuário.
 * **Cadastrador:** cadastrar usuários, liberar, atualizar e retirar acessos apenas nos sistemas e nas unidades pelos quais está autorizado a atuar.
 * **Central de Atendimento:** atuar em problemas do sistema ou casos que não foram resolvidos. Os procedimentos de cadastro e acesso continuam sob responsabilidade do cadastrador.
 
-## Como Usar Esta Cartilha
+### Como Usar Esta Cartilha
 
 Encontre na tabela abaixo o pedido que você recebeu, confira a primeira ação indicada e vá diretamente para a seção correspondente. Esta cartilha trata das situações mais recorrentes de cadastro, habilitação e manutenção de acessos no Senha-Rede e no HOD.
 
@@ -42,7 +40,9 @@ Encontre na tabela abaixo o pedido que você recebeu, confira a primeira ação 
 
 ---
 
-## Entenda em um Minuto: Cadastro e Habilitação são Coisas Diferentes
+## SUMÁRIO DE NAVEGAÇÃO
+
+### Entenda em um Minuto: Cadastro e Habilitação são Coisas Diferentes
 
 Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Primeiro a pessoa é cadastrada no **Senha-Rede**; depois é habilitada no sistema (por exemplo, o **SIASG**), com os perfis, a UASG e o nível autorizados.
 
@@ -52,9 +52,7 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 !!! note "Nota"
     **Nota:** Usuário cadastrado, mas sem habilitação no SIASG, não vê o sistema no menu. Nesse caso, não faça nova inclusão: falta apenas habilitar.
 
----
-
-## Encontre a Demanda Recebida
+### Encontre a Demanda Recebida
 
 | Nº | Demanda Recebida | Primeira Ação | Onde Consultar |
 | :---: | :--- | :--- | :--- |
@@ -71,9 +69,7 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 | **11** | É necessário excluir o cadastro da Senha-Rede | Avalie o impacto antes da exclusão física. | [Capítulo 3 — Seção 11](03-alteracoes-exclusoes-e-cadastradores.md#11-preciso-excluir-o-usuario-da-senha-rede) |
 | **12** | É necessário habilitar outro cadastrador | Confirme nível e escopo antes da habilitação. | [Capítulo 3 — Seção 12](03-alteracoes-exclusoes-e-cadastradores.md#12-preciso-habilitar-outro-cadastrador) |
 
----
-
-## Tabela de Decisão: Mensagem, Causa e Rotina
+### Tabela de Decisão: Mensagem, Causa e Rotina
 
 | Mensagem do Sistema | Causa | Rotina | Não Confundir Com |
 | :--- | :--- | :--- | :--- |
@@ -82,11 +78,9 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 | **Usuário bloqueado** | Tentativas consecutivas com senha incorreta | `LIBUSUBLOQ` (liberação) | Inativação. Se a senha foi esquecida, use `TROCSEN` |
 | **Usuário em uso / contexto preso** | Sessão anterior não encerrada | `LIBUSUCON` (liberação de contexto) | Bloqueio por senha |
 
----
+### Onde Fica Cada Rotina
 
-## Onde Fica Cada Rotina
-
-Mapa esquemático das rotinas citadas nesta cartilha. É uma representação de navegação, não uma captura de tela, e não contém dados pessoais.
+Mapa esquemático das rotinas citadas nesta cartilha dentro do módulo **`ADMUSU · Administra Usuário (Senha-Rede)`**:
 
 | `ATZUSU` · Atualiza Usuário | `HABUSU` · Habilita Usuário | `HABCAD` · Habilita Cadastrador |
 | :--- | :--- | :--- |
@@ -96,5 +90,5 @@ Mapa esquemático das rotinas citadas nesta cartilha. É uma representação de 
     **Dica:** Em tela, a rotina é acessada seguindo o caminho hierárquico indicado em cada seção (por exemplo: `ADMUSU > ATZUSU > TROCSEN`).
 
 <div class="toolbar-rodape">
-  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou Salvar PDF">🖨️ Imprimir / PDF</button>
+  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
