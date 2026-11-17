@@ -69,12 +69,12 @@ Ao registrar um chamado, inclua sempre:
 
 Utilize esta lista de verificação ao final de cada atendimento:
 
-- [ ] Recebi um pedido formal e tenho autorização para realizar o procedimento;
-- [ ] Verifiquei se o usuário já existe ou não (consulta prévia por CPF);
-- [ ] Identifiquei corretamente a situação do usuário (bloqueado, inativo, revogado ou contexto preso);
-- [ ] Conferi se perfil, UASG e nível correspondem exatamente ao autorizado;
-- [ ] Nenhuma senha foi solicitada ou registrada em chamados, e-mails ou atas;
-- [ ] O resultado da operação foi registrado sem credenciais.
+* Recebi um pedido formal e tenho autorização para realizar o procedimento;
+* Verifiquei se o usuário já existe ou não (consulta prévia por CPF);
+* Identifiquei corretamente a situação do usuário (bloqueado, inativo, revogado ou contexto preso);
+* Conferi se perfil, UASG e nível correspondem exatamente ao autorizado;
+* Nenhuma senha foi solicitada ou registrada em chamados, e-mails ou atas;
+* O resultado da operação foi registrado sem credenciais.
 
 ---
 
