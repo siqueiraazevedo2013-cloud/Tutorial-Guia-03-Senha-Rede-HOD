@@ -1,26 +1,22 @@
 <div class="toolbar-acessibilidade">
-  <div>
-    <button class="btn-acessibilidade" onclick="alterarFonte('diminuir')" title="Diminuir fonte">A-</button>
-    <button class="btn-acessibilidade" onclick="alterarFonte('resetar')" title="Tamanho padrão">A</button>
-    <button class="btn-acessibilidade" onclick="alterarFonte('aumentar')" title="Aumentar fonte">A+</button>
-  </div>
-  <div>
-    <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou Salvar PDF">🖨️ Imprimir / PDF</button>
-  </div>
+  <span class="toolbar-label">Tamanho do texto:</span>
+  <button class="btn-acessibilidade" onclick="alterarFonte('diminuir')" title="Diminuir fonte">A-</button>
+  <button class="btn-acessibilidade" onclick="alterarFonte('resetar')" title="Tamanho padrão">A</button>
+  <button class="btn-acessibilidade" onclick="alterarFonte('aumentar')" title="Aumentar fonte">A+</button>
+  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
 
-# Guia 03 — Senha-Rede e HOD (Tela Preta)
+# GUIA 03 — SENHA-REDE E HOD (TELA PRETA)
 
-**Gestão de acessos para cadastradores**  
-*Cadastro • Habilitação • Senhas • Perfis • Exclusões*
+**Encontre sua situação. Veja a orientação. Faça a ação indicada.**
 
-> **Encontre sua situação. Veja a orientação. Faça a ação indicada.**
+<div class="bloco-publico-alvo" markdown="1">
+<span class="titulo-publico">PÚBLICO-ALVO:</span>
 
----
-
-## Público
-
-Cadastradores Gerais, Parciais e Locais, responsáveis institucionais pela gestão de acessos e equipe da Central de Atendimento.
+* Cadastradores Gerais, Parciais e Locais
+* Responsáveis institucionais pela gestão de acessos
+* Equipe da Central de Atendimento
+</div>
 
 ## Finalidade e Contexto
 
