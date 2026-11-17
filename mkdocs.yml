@@ -6,15 +6,19 @@ theme:
   name: readthedocs
   locale: pt_BR
   highlightjs: true
-  navigation_depth: 3
+  navigation_depth: 2
+  collapse_navigation: true
 
 nav:
   - Introdução Geral: index.md
-  - 1. Cadastro e Habilitação Inicial: 01-cadastro-e-habilitacao.md
-  - 2. Senhas, Inatividade e Desbloqueios: 02-senhas-e-desbloqueios.md
-  - 3. Alterações, Exclusões e Cadastradores: 03-alteracoes-exclusoes-e-cadastradores.md
-  - 4. Suporte, Boas Práticas e Glossário: 04-suporte-boas-praticas-e-glossario.md
-  - Manual Completo (Impressão): manual-completo.md
+  - PARTE 1 - GUIA PRÁTICO DO CADASTRADOR:
+      - 1. Cadastro e Habilitação Inicial: 01-cadastro-e-habilitacao.md
+      - 2. Senhas, Inatividade e Desbloqueios: 02-senhas-e-desbloqueios.md
+      - 3. Alterações, Exclusões e Cadastradores: 03-alteracoes-exclusoes-e-cadastradores.md
+  - PARTE 2 - SUPORTE E BOAS PRÁTICAS:
+      - 4. Suporte, Boas Práticas e Glossário: 04-suporte-boas-praticas-e-glossario.md
+  - VERSÃO CONSOLIDADA:
+      - Manual Completo (Impressão): manual-completo.md
 
 markdown_extensions:
   - admonition
