@@ -47,8 +47,8 @@ Ao registrar um chamado, inclua sempre:
 
 ### Canais e Horário de Atendimento
 
-* **Canal oficial:** Central de Atendimento do SIASG/HOD **Telefone:** `0800 978 9001`
-* **Horário de funcionamento:** Dias úteis, das **8h30 às 21h30** (horário de Brasília), conforme informado nas perguntas frequentes do Portal de Compras.
+* **Canal oficial:** Central de Atendimento do SIASG/HOD **Telefone:** 0800 978 9001
+* * **Horário de funcionamento:** Dias úteis, das **8h30 às 21h30** (horário de Brasília), conforme informado nas perguntas frequentes do Portal de Compras.
 
 ---
 
