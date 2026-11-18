@@ -6,15 +6,15 @@
   <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
 
-# 3. Alterações, Exclusões e Cadastradores
+# Capítulo 3. Alterações, Exclusões e Cadastradores
 
 Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perfil, UASG e nível), desligamento parcial (exclusão de habilitação no sistema) ou total (exclusão física no Senha-Rede), além da habilitação de novos cadastradores.
 
 ---
 
-## 9. Preciso alterar perfil, UASG ou nível
+## Seção 9. Preciso alterar perfil, UASG ou nível
 
-> **Assuntos relacionados:** [O usuário não consegue acessar o SIASG](01-cadastro-e-habilitacao.md#3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [É necessário retirar o acesso ao SIASG](#10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Altere apenas os perfis, a UASG ou o nível indicados no pedido autorizado.
@@ -34,9 +34,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## 10. Preciso retirar o acesso ao SIASG
+## Seção 10. Preciso retirar o acesso ao SIASG
 
-> **Assuntos relacionados:** [É necessário excluir o cadastro da Senha-Rede](#11-preciso-excluir-o-usuario-da-senha-rede)
+> **Assuntos relacionados:** [Seção 11. Preciso excluir o usuário da Senha-Rede](#secao-11-preciso-excluir-o-usuario-da-senha-rede)
 
 !!! tip "Resposta Rápida"
     **Dica:** Exclua a habilitação do SIASG. Não exclua fisicamente o cadastro.
@@ -56,9 +56,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## 11. Preciso excluir o usuário da Senha-Rede
+## Seção 11. Preciso excluir o usuário da Senha-Rede
 
-> **Assuntos relacionados:** [É necessário retirar o acesso ao SIASG](#10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de excluir o cadastro, confirme se a exclusão é necessária, se foi autorizada e se você pode realizá-la. A operação remove também todas as habilitações vinculadas.
@@ -78,7 +78,7 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## 12. Preciso habilitar outro cadastrador
+## Seção 12. Preciso habilitar outro cadastrador
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de habilitar o cadastrador, confira em qual nível, órgão, sistemas e unidades ele poderá atuar.
@@ -97,5 +97,5 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
     **Nota:** Cadastrador habilitado no nível e no escopo autorizados.
 
 <div class="toolbar-rodape">
-  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou Salvar PDF">🖨️ Imprimir / PDF</button>
+  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
