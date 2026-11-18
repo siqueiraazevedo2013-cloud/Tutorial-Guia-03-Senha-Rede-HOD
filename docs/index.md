@@ -69,6 +69,7 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
   </div>
 </div>
 
+
 !!! note "Nota"
     **Nota:** Usuário cadastrado, mas sem habilitação no SIASG, não vê o sistema no menu. Nesse caso, não faça nova inclusão: falta apenas habilitar.
 
