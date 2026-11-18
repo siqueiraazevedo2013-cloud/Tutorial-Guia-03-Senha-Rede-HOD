@@ -6,15 +6,15 @@
   <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
 
-# 1. Cadastro e Habilitação Inicial
+# Capítulo 1. Cadastro e Habilitação Inicial
 
 Este capítulo reúne os procedimentos iniciais para verificar se um usuário já possui registro no **Senha-Rede**, realizar uma nova inclusão ou liberar o acesso específico ao **SIASG**.
 
 ---
 
-## 1. O cadastro já existe
+## Seção 1. O cadastro já existe
 
-> **Assuntos relacionados:** [O usuário não consegue acessar o SIASG](#3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)
+> **Assuntos relacionados:** [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Confira se falta liberar o acesso ao SIASG. Se o usuário já está cadastrado, não o cadastre novamente.
@@ -23,7 +23,7 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 1. **Consulte o CPF:** Pesquise o usuário pelo CPF no Senha-Rede.
 2. **Confira os sistemas vinculados:** Veja em quais sistemas o usuário já está habilitado.
-3. **Siga para a habilitação:** Se o SIASG não estiver habilitado, vá para a rotina de habilitação ([Seção 3](#3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)).
+3. **Siga para a habilitação:** Se o SIASG não estiver habilitado, vá para a rotina de habilitação ([Seção 3](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)).
 
 !!! warning "Não Faça"
     **Atenção:** Não faça uma nova inclusão para quem já está cadastrado.
@@ -33,9 +33,9 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 ---
 
-## 2. O usuário ainda não está cadastrado
+## Seção 2. O usuário ainda não está cadastrado
 
-> **Assuntos relacionados:** [O usuário não consegue acessar o SIASG](#3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)
+> **Assuntos relacionados:** [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de cadastrar o usuário, confirme se o pedido foi autorizado e se você pode realizar esse cadastro.
@@ -55,9 +55,9 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 ---
 
-## 3. O usuário está cadastrado, mas não acessa o SIASG
+## Seção 3. O usuário está cadastrado, mas não acessa o SIASG
 
-> **Assuntos relacionados:** [O usuário já possui acesso a outro sistema](#1-o-cadastro-ja-existe) | [É necessário alterar perfil, UASG ou nível](03-alteracoes-exclusoes-e-cadastradores.md#9-preciso-alterar-perfil-uasg-ou-nivel)
+> **Assuntos relacionados:** [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) | [Seção 9. Preciso alterar perfil, UASG ou nível](03-alteracoes-exclusoes-e-cadastradores.md#secao-9-preciso-alterar-perfil-uasg-ou-nivel)
 
 !!! tip "Resposta Rápida"
     **Dica:** Cadastro e habilitação são etapas diferentes. Confira o sistema, os perfis, a UASG, a base e o nível de acesso.
@@ -76,5 +76,5 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
     **Nota:** SIASG disponível no menu conforme os perfis e parâmetros autorizados.
 
 <div class="toolbar-rodape">
-  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou Salvar PDF">🖨️ Imprimir / PDF</button>
+  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
