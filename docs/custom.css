@@ -1,6 +1,9 @@
 /* Ajustes gerais de tipografia e espaçamento de leitura */
+/* Centraliza a folha branca de conteúdo na área de leitura (padrão Delog) */
 .wy-nav-content {
-    max-width: 960px;
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    background: #fcfcfc;
 }
 
 .rst-content .admonition {
