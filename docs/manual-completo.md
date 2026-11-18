@@ -49,7 +49,27 @@ Encontre na tabela abaixo o pedido que você recebeu, confira a primeira ação 
 Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Primeiro a pessoa é cadastrada no **Senha-Rede**; depois é habilitada no sistema (por exemplo, o **SIASG**), com os perfis, a UASG e o nível autorizados.
 
 **Fluxo operacional:**  
-`1. Autorização: confirme a competência` ▶ `2. Cadastro: Senha-Rede (INCUSU)` ▶ `3. Habilitação: SIASG (HABUSUSIS)` ▶ `4. Primeiro acesso: troca da senha provisória`
+`<div class="fluxograma-etapas">
+  <div class="fluxo-card">
+    <strong>1. Autorização</strong>
+    <span>Confirme a competência</span>
+  </div>
+  <div class="fluxo-seta">➔</div>
+  <div class="fluxo-card">
+    <strong>2. Cadastro</strong>
+    <span>Senha-Rede (INCUSU)</span>
+  </div>
+  <div class="fluxo-seta">➔</div>
+  <div class="fluxo-card">
+    <strong>3. Habilitação</strong>
+    <span>SIASG (HABUSUSIS)</span>
+  </div>
+  <div class="fluxo-seta">➔</div>
+  <div class="fluxo-card">
+    <strong>4. Primeiro acesso</strong>
+    <span>Troca da senha provisória</span>
+  </div>
+</div>`
 
 !!! note "Nota"
     **Nota:** Usuário cadastrado, mas sem habilitação no SIASG, não vê o sistema no menu. Nesse caso, não faça nova inclusão: falta apenas habilitar.
