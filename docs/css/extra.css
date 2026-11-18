@@ -80,3 +80,8 @@
     color: #c04a3e;
     margin-bottom: 4px;
 }
+.wy-nav-content {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    background: #fcfcfc;
+}
