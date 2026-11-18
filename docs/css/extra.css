@@ -80,8 +80,18 @@
     color: #c04a3e;
     margin-bottom: 4px;
 }
+
+/* =========================================================
+   CENTRALIZAÇÃO DA ÁREA DE LEITURA (PADRÃO DELOG)
+   ========================================================= */
+.wy-nav-content-wrap {
+    background: #eaeced !important; /* Fundo cinza uniforme em toda a área direita */
+}
+
 .wy-nav-content {
-    max-width: 900px !important;
+    max-width: 880px !important;
     margin: 0 auto !important;
-    background: #fcfcfc;
+    background: #ffffff !important;
+    min-height: 100vh;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.06);
 }
