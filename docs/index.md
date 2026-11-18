@@ -40,7 +40,7 @@ Encontre na tabela abaixo o pedido que você recebeu, confira a primeira ação 
 
 ---
 
-## SUMÁRIO DE NAVEGAÇÃO
+## Sumário de Navegação
 
 ### Entenda em um Minuto: Cadastro e Habilitação são Coisas Diferentes
 
