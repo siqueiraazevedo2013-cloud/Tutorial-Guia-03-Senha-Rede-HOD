@@ -6,13 +6,13 @@
   <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
 
-# 4. Suporte, Boas Práticas e Glossário
+# Capítulo 4. Suporte, Boas Práticas e Glossário
 
 Este capítulo orienta sobre o acionamento da Central de Atendimento, apresenta os erros mais recorrentes na gestão de acessos e disponibiliza o checklist de verificação, o glossário de termos e as referências oficiais.
 
 ---
 
-## Quando Encaminhar à Central de Atendimento
+## Seção 13. Quando Encaminhar à Central de Atendimento
 
 Encaminhe a ocorrência à Central de Atendimento quando:
 
@@ -44,34 +44,40 @@ Ao registrar um chamado, inclua sempre:
 
 ### Canais e Horário de Atendimento
 
-* **Canal oficial:** Central de Atendimento do SIASG/HOD **Telefone:** 0800 978 9001
+* **Canal oficial:** Central de Atendimento do SIASG/HOD
+* **Telefone:** `0800 978 9001`
 * **Horário de funcionamento:** Dias úteis, das **8h30 às 21h30** (horário de Brasília), conforme informado nas perguntas frequentes do Portal de Compras.
 
 ---
 
-## Erros Mais Comuns e Como Evitá-los
+## Seção 14. Erros Mais Comuns e Como Evitá-los
 
 | Erro Frequente | Consequência | Como Evitar |
 | :--- | :--- | :--- |
-| Fazer nova inclusão para quem já está cadastrado | Duplicidade e retrabalho | Consultar o CPF antes de qualquer inclusão ([Capítulo 1 — Seção 1](01-cadastro-e-habilitacao.md#1-o-cadastro-ja-existe)). |
-| Tratar falta de habilitação como falta de cadastro | Usuário continua sem ver o SIASG no menu | Verificar `HABUSUSIS` e os parâmetros ([Capítulo 1 — Seção 3](01-cadastro-e-habilitacao.md#3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)). |
+| Fazer nova inclusão para quem já está cadastrado | Duplicidade e retrabalho | Consultar o CPF antes de qualquer inclusão ([Capítulo 1 — Seção 1](01-cadastro-e-habilitacao.md#secao-1-o-cadastro-ja-existe)). |
+| Tratar falta de habilitação como falta de cadastro | Usuário continua sem ver o SIASG no menu | Verificar `HABUSUSIS` e os parâmetros ([Capítulo 1 — Seção 3](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)). |
 | Reativar quando a condição é bloqueio (ou o contrário) | Problema não resolvido | Usar a tabela de decisão pela mensagem exibida na tela. |
-| Excluir fisicamente o cadastro para retirar só o SIASG | Perda de acesso a outros sistemas da Rede Serpro | Excluir apenas a habilitação ([Capítulo 3 — Seção 10](03-alteracoes-exclusoes-e-cadastradores.md#10-preciso-retirar-o-acesso-ao-siasg)). |
+| Excluir fisicamente o cadastro para retirar só o SIASG | Perda de acesso a outros sistemas da Rede Serpro | Excluir apenas a habilitação ([Capítulo 3 — Seção 10](03-alteracoes-exclusoes-e-cadastradores.md#secao-10-preciso-retirar-o-acesso-ao-siasg)). |
 | Pedir ou registrar senha em chamado ou e-mail | Risco de segurança e exposição de credencial | Gerar senha provisória e transmitir pelo canal institucional. |
 | Atribuir perfis, UASG ou nível além do autorizado | Acesso indevido e falha de conformidade | Conferir a solicitação formal antes de habilitar. |
 
 ---
 
-## Antes de Concluir Qualquer Rotina, Confira
+## Seção 15. Antes de Concluir Qualquer Rotina, Confira
 
 Utilize esta lista de verificação ao final de cada atendimento:
 
-* Recebi um pedido formal e tenho autorização para realizar o procedimento;
-* Verifiquei se o usuário já existe ou não (consulta prévia por CPF);
-* Identifiquei corretamente a situação do usuário (bloqueado, inativo, revogado ou contexto preso);
-* Conferi se perfil, UASG e nível correspondem exatamente ao autorizado;
-* Nenhuma senha foi solicitada ou registrada em chamados, e-mails ou atas;
-* O resultado da operação foi registrado sem credenciais.
+▪ Recebi um pedido formal e tenho autorização para realizar o procedimento;
+
+▪ Verifiquei se o usuário já existe ou não (consulta prévia por CPF);
+
+▪ Identifiquei corretamente a situação do usuário (bloqueado, inativo, revogado ou contexto preso);
+
+▪ Conferi se perfil, UASG e nível correspondem exatamente ao autorizado;
+
+▪ Nenhuma senha foi solicitada ou registrada em chamados, e-mails ou atas;
+
+▪ O resultado da operação foi registrado sem credenciais.
 
 ---
 
@@ -108,5 +114,5 @@ A correta gestão de acessos fortalece a segurança da informação, reduz retra
 * BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. **Perguntas frequentes: SIASG**. Brasília, DF: Portal de Compras do Governo Federal, [s.d.]. Disponível em: <https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/siasg>. Acesso em: 6 out. 2026.
 
 <div class="toolbar-rodape">
-  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou Salvar PDF">🖨️ Imprimir / PDF</button>
+  <button class="btn-acessibilidade btn-imprimir" onclick="window.print()" title="Imprimir ou baixar esta página">🖨️ Imprimir ou baixar esta página</button>
 </div>
