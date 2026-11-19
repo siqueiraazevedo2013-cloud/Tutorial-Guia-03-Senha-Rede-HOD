@@ -34,3 +34,18 @@ table code {
     padding: 0 !important;                /* Remove o espaçamento interno da caixa */
     white-space: normal !important;       /* Permite quebrar linha naturalmente se necessário */
 }
+/* =========================================================
+   ALINHAMENTO DO BOTÃO DE IMPRESSÃO DO RODAPÉ À DIREITA
+   ========================================================= */
+.toolbar-rodape {
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: center;
+    width: 100%;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.toolbar-rodape .btn-imprimir {
+    margin-left: 0 !important;
+}
