@@ -57,7 +57,7 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 ## Seção 3. O usuário está cadastrado, mas não acessa o SIASG
 
-> **Assuntos relacionados:** [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) | [Seção 9. Preciso alterar perfil, UASG ou nível](03-alteracoes-exclusoes-e-cadastradores.md#secao-9-preciso-alterar-perfil-uasg-ou-nivel)
+> **Assuntos relacionados:** [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) | [Capítulo 3 — Seção 1. Preciso alterar perfil, UASG ou nível](03-alteracoes-exclusoes-e-cadastradores.md#secao-1-preciso-alterar-perfil-uasg-ou-nivel)
 
 !!! tip "Resposta Rápida"
     **Dica:** Cadastro e habilitação são etapas diferentes. Confira o sistema, os perfis, a UASG, a base e o nível de acesso.
