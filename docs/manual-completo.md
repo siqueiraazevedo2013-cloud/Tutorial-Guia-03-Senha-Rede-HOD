@@ -77,18 +77,18 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 
 | Nº | Demanda Recebida | Primeira Ação | Onde Consultar |
 | :---: | :--- | :--- | :--- |
-| **01** | O usuário já possui acesso a outro sistema | Verifique a habilitação. | [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) |
-| **02** | O usuário ainda não está cadastrado | Inclua no Senha-Rede. | [Seção 2. O usuário ainda não está cadastrado](#secao-2-o-usuario-ainda-nao-esta-cadastrado) |
-| **03** | O usuário não consegue acessar o SIASG | Confira sistema, perfil, UASG e nível. | [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) |
-| **04** | A mensagem informa habilitação revogada | Troque a senha. | [Seção 4. A habilitação está revogada](#secao-4-a-habilitacao-esta-revogada) |
-| **05** | O usuário esqueceu a senha | Gere senha provisória. | [Seção 5. O usuário esqueceu a senha](#secao-5-o-usuario-esqueceu-a-senha) |
-| **06** | A mensagem informa usuário inativo | Reative o cadastro. | [Seção 6. O usuário está inativo](#secao-6-o-usuario-esta-inativo) |
-| **07** | A mensagem informa usuário bloqueado | Libere o bloqueio. | [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado) |
-| **08** | A mensagem informa usuário em uso ou contexto preso | Libere a sessão. | [Seção 8. Sessão anterior continua aberta](#secao-8-o-usuario-nao-consegue-entrar-porque-a-sessao-anterior-continua-aberta) |
-| **09** | É necessário alterar perfil, UASG ou nível | Atualize a habilitação. | [Seção 9. Preciso alterar perfil, UASG ou nível](#secao-9-preciso-alterar-perfil-uasg-ou-nivel) |
-| **10** | É necessário retirar o acesso ao SIASG | Exclua apenas do sistema. | [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg) |
-| **11** | É necessário excluir o cadastro da Senha-Rede | Avalie o impacto antes da exclusão física. | [Seção 11. Preciso excluir o usuário da Senha-Rede](#secao-11-preciso-excluir-o-usuario-da-senha-rede) |
-| **12** | É necessário habilitar outro cadastrador | Confirme nível e escopo antes da habilitação. | [Seção 12. Preciso habilitar outro cadastrador](#secao-12-preciso-habilitar-outro-cadastrador) |
+| **01** | O usuário já possui acesso a outro sistema | Verifique a habilitação. | [Capítulo 1<br>Seção 1](#secao-1-o-cadastro-ja-existe) |
+| **02** | O usuário ainda não está cadastrado | Inclua no Senha-Rede. | [Capítulo 1<br>Seção 2](#secao-2-o-usuario-ainda-nao-esta-cadastrado) |
+| **03** | O usuário não consegue acessar o SIASG | Confira sistema, perfil, UASG e nível. | [Capítulo 1<br>Seção 3](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) |
+| **04** | A mensagem informa habilitação revogada | Troque a senha. | [Capítulo 2<br>Seção 1](#secao-1-a-habilitacao-esta-revogada) |
+| **05** | O usuário esqueceu a senha | Gere senha provisória. | [Capítulo 2<br>Seção 2](#secao-2-o-usuario-esqueceu-a-senha) |
+| **06** | A mensagem informa usuário inativo | Reative o cadastro. | [Capítulo 2<br>Seção 3](#secao-3-o-usuario-esta-inativo) |
+| **07** | A mensagem informa usuário bloqueado | Libere o bloqueio. | [Capítulo 2<br>Seção 4](#secao-4-o-usuario-esta-bloqueado) |
+| **08** | A mensagem informa usuário em uso ou contexto preso | Libere a sessão. | [Capítulo 2<br>Seção 5](#secao-5-o-usuario-nao-consegue-entrar-porque-a-sessao-anterior-continua-aberta) |
+| **09** | É necessário alterar perfil, UASG ou nível | Atualize a habilitação. | [Capítulo 3<br>Seção 1](#secao-1-preciso-alterar-perfil-uasg-ou-nivel) |
+| **10** | É necessário retirar o acesso ao SIASG | Exclua apenas do sistema. | [Capítulo 3<br>Seção 2](#secao-2-preciso-retirar-o-acesso-ao-siasg) |
+| **11** | É necessário excluir o cadastro da Senha-Rede | Avalie o impacto antes da exclusão física. | [Capítulo 3<br>Seção 3](#secao-3-preciso-excluir-o-usuario-da-senha-rede) |
+| **12** | É necessário habilitar outro cadastrador | Confirme nível e escopo antes da habilitação. | [Capítulo 3<br>Seção 4](#secao-4-preciso-habilitar-outro-cadastrador) |
 
 ---
 
@@ -161,7 +161,7 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 ## Seção 3. O usuário está cadastrado, mas não acessa o SIASG
 
-> **Assuntos relacionados:** [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) | [Seção 9. Preciso alterar perfil, UASG ou nível](#secao-9-preciso-alterar-perfil-uasg-ou-nivel)
+> **Assuntos relacionados:** [Seção 1. O cadastro já existe](#secao-1-o-cadastro-ja-existe) | [Capítulo 3 — Seção 1. Preciso alterar perfil, UASG ou nível](#secao-1-preciso-alterar-perfil-uasg-ou-nivel)
 
 !!! tip "Resposta Rápida"
     **Dica:** Cadastro e habilitação são etapas diferentes. Confira o sistema, os perfis, a UASG, a base e o nível de acesso.
@@ -185,9 +185,9 @@ Este capítulo reúne os procedimentos iniciais para verificar se um usuário j�
 
 Este capítulo apresenta os procedimentos corretos para tratar falhas de autenticação, revogação, inatividade por tempo sem troca de senha, bloqueios por tentativas inválidas e liberação de sessões presas no **Senha-Rede**.
 
-## Seção 4. A habilitação está revogada
+## Seção 1. A habilitação está revogada
 
-> **Assuntos relacionados:** [Seção 5. O usuário esqueceu a senha](#secao-5-o-usuario-esqueceu-a-senha)
+> **Assuntos relacionados:** [Seção 2. O usuário esqueceu a senha](#secao-2-o-usuario-esqueceu-a-senha)
 
 !!! tip "Resposta Rápida"
     **Dica:** Use a troca de senha. Não faça nova inclusão.
@@ -204,9 +204,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 !!! note "Resultado Esperado"
     **Nota:** Acesso liberado novamente após a criação da nova senha.
 
-## Seção 5. O usuário esqueceu a senha
+## Seção 2. O usuário esqueceu a senha
 
-> **Assuntos relacionados:** [Seção 4. A habilitação está revogada](#secao-4-a-habilitacao-esta-revogada) | [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 1. A habilitação está revogada](#secao-1-a-habilitacao-esta-revogada) | [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Confirme se você é responsável por esse cadastro. Depois, gere uma senha provisória.
@@ -224,9 +224,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 !!! note "Resultado Esperado"
     **Nota:** Senha provisória gerada e substituída por senha pessoal no próximo acesso.
 
-## Seção 6. O usuário está inativo
+## Seção 3. O usuário está inativo
 
-> **Assuntos relacionados:** [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Reative o usuário. O cadastro fica inativo quando o usuário passa mais de 45 dias sem trocar a senha.
@@ -243,9 +243,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 !!! note "Resultado Esperado"
     **Nota:** Cadastro reativado e disponível para novo acesso.
 
-## Seção 7. O usuário está bloqueado
+## Seção 4. O usuário está bloqueado
 
-> **Assuntos relacionados:** [Seção 5. O usuário esqueceu a senha](#secao-5-o-usuario-esqueceu-a-senha) | [Seção 6. O usuário está inativo](#secao-6-o-usuario-esta-inativo)
+> **Assuntos relacionados:** [Seção 2. O usuário esqueceu a senha](#secao-2-o-usuario-esqueceu-a-senha) | [Seção 3. O usuário está inativo](#secao-3-o-usuario-esta-inativo)
 
 !!! tip "Resposta Rápida"
     **Dica:** Libere o bloqueio. O bloqueio ocorre após tentativas consecutivas de entrada com senhas inválidas.
@@ -255,7 +255,7 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 1. **Acesse a rotina:** Navegue até `ADMUSU > ATZUSU > LIBUSUBLOQ`.
 2. **Informe o usuário:** Informe os dados do usuário que precisa ser desbloqueado.
 3. **Confirme a liberação:** Conclua a operação no sistema.
-4. **Oriente nova tentativa:** Se o usuário não lembrar a senha, use a troca de senha ([Seção 5](#secao-5-o-usuario-esqueceu-a-senha)).
+4. **Oriente nova tentativa:** Se o usuário não lembrar a senha, use a troca de senha ([Seção 2](#secao-2-o-usuario-esqueceu-a-senha)).
 
 !!! warning "Não Faça"
     **Atenção:** Não faça inclusão nem reativação se a condição for somente bloqueio.
@@ -263,9 +263,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 !!! note "Resultado Esperado"
     **Nota:** Bloqueio removido. Se o usuário não lembrar a senha, gere uma senha provisória.
 
-## Seção 8. O usuário não consegue entrar porque a sessão anterior continua aberta
+## Seção 5. O usuário não consegue entrar porque a sessão anterior continua aberta
 
-> **Assuntos relacionados:** [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Libere a sessão anterior. Depois, peça ao usuário que tente entrar novamente.
@@ -286,9 +286,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perfil, UASG e nível), desligamento parcial (exclusão de habilitação no sistema) ou total (exclusão física no Senha-Rede), além da habilitação de novos cadastradores.
 
-## Seção 9. Preciso alterar perfil, UASG ou nível
+## Seção 1. Preciso alterar perfil, UASG ou nível
 
-> **Assuntos relacionados:** [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Capítulo 1 — Seção 3. O usuário está cadastrado, mas não acessa o SIASG](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [Seção 2. Preciso retirar o acesso ao SIASG](#secao-2-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Altere apenas os perfis, a UASG ou o nível indicados no pedido autorizado.
@@ -306,9 +306,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 !!! note "Resultado Esperado"
     **Nota:** Acesso atualizado conforme a função, a UASG e o nível aprovados.
 
-## Seção 10. Preciso retirar o acesso ao SIASG
+## Seção 2. Preciso retirar o acesso ao SIASG
 
-> **Assuntos relacionados:** [Seção 11. Preciso excluir o usuário da Senha-Rede](#secao-11-preciso-excluir-o-usuario-da-senha-rede)
+> **Assuntos relacionados:** [Seção 3. Preciso excluir o usuário da Senha-Rede](#secao-3-preciso-excluir-o-usuario-da-senha-rede)
 
 !!! tip "Resposta Rápida"
     **Dica:** Exclua a habilitação do SIASG. Não exclua fisicamente o cadastro.
@@ -326,9 +326,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 !!! note "Resultado Esperado"
     **Nota:** Acesso ao SIASG retirado. O cadastro continua disponível para os outros sistemas autorizados.
 
-## Seção 11. Preciso excluir o usuário da Senha-Rede
+## Seção 3. Preciso excluir o usuário da Senha-Rede
 
-> **Assuntos relacionados:** [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Seção 2. Preciso retirar o acesso ao SIASG](#secao-2-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de excluir o cadastro, confirme se a exclusão é necessária, se foi autorizada e se você pode realizá-la. A operação remove também todas as habilitações vinculadas.
@@ -346,7 +346,7 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 !!! note "Resultado Esperado"
     **Nota:** Cadastro removido. Um novo acesso exigirá novo cadastramento e novas habilitações.
 
-## Seção 12. Preciso habilitar outro cadastrador
+## Seção 4. Preciso habilitar outro cadastrador
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de habilitar o cadastrador, confira em qual nível, órgão, sistemas e unidades ele poderá atuar.
@@ -370,7 +370,7 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 Este capítulo orienta sobre o acionamento da Central de Atendimento, apresenta os erros mais recorrentes na gestão de acessos e disponibiliza o checklist de verificação, o glossário de termos e as referências oficiais.
 
-## Seção 13. Quando Encaminhar à Central de Atendimento
+## Seção 1. Quando Encaminhar à Central de Atendimento
 
 Encaminhe a ocorrência à Central de Atendimento quando:
 
@@ -406,18 +406,18 @@ Ao registrar um chamado, inclua sempre:
 * **Telefone:** `0800 978 9001`
 * **Horário de funcionamento:** Dias úteis, das **8h30 às 21h30** (horário de Brasília), conforme informado nas perguntas frequentes do Portal de Compras.
 
-## Seção 14. Erros Mais Comuns e Como Evitá-los
+## Seção 2. Erros Mais Comuns e Como Evitá-los
 
 | Erro Frequente | Consequência | Como Evitar |
 | :--- | :--- | :--- |
-| Fazer nova inclusão para quem já está cadastrado | Duplicidade e retrabalho | Consultar o CPF antes de qualquer inclusão ([Seção 1](#secao-1-o-cadastro-ja-existe)). |
-| Tratar falta de habilitação como falta de cadastro | Usuário continua sem ver o SIASG no menu | Verificar `HABUSUSIS` e os parâmetros ([Seção 3](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)). |
+| Fazer nova inclusão para quem já está cadastrado | Duplicidade e retrabalho | Consultar o CPF antes de qualquer inclusão ([Capítulo 1 — Seção 1](#secao-1-o-cadastro-ja-existe)). |
+| Tratar falta de habilitação como falta de cadastro | Usuário continua sem ver o SIASG no menu | Verificar `HABUSUSIS` e os parâmetros ([Capítulo 1 — Seção 3](#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg)). |
 | Reativar quando a condição é bloqueio (ou o contrário) | Problema não resolvido | Usar a tabela de decisão pela mensagem exibida na tela. |
-| Excluir fisicamente o cadastro para retirar só o SIASG | Perda de acesso a outros sistemas da Rede Serpro | Excluir apenas a habilitação ([Seção 10](#secao-10-preciso-retirar-o-acesso-ao-siasg)). |
+| Excluir fisicamente o cadastro para retirar só o SIASG | Perda de acesso a outros sistemas da Rede Serpro | Excluir apenas a habilitação ([Capítulo 3 — Seção 2](#secao-2-preciso-retirar-o-acesso-ao-siasg)). |
 | Pedir ou registrar senha em chamado ou e-mail | Risco de segurança e exposição de credencial | Gerar senha provisória e transmitir pelo canal institucional. |
 | Atribuir perfis, UASG ou nível além do autorizado | Acesso indevido e falha de conformidade | Conferir a solicitação formal antes de habilitar. |
 
-## Seção 15. Antes de Concluir Qualquer Rotina, Confira
+## Seção 3. Antes de Concluir Qualquer Rotina, Confira
 
 Utilize esta lista de verificação ao final de cada atendimento:
 
