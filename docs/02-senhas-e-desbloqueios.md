@@ -12,9 +12,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 ---
 
-## Seção 4. A habilitação está revogada
+## Seção 1. A habilitação está revogada
 
-> **Assuntos relacionados:** [Seção 5. O usuário esqueceu a senha](#secao-5-o-usuario-esqueceu-a-senha)
+> **Assuntos relacionados:** [Seção 2. O usuário esqueceu a senha](#secao-2-o-usuario-esqueceu-a-senha)
 
 !!! tip "Resposta Rápida"
     **Dica:** Use a troca de senha. Não faça nova inclusão.
@@ -33,9 +33,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 ---
 
-## Seção 5. O usuário esqueceu a senha
+## Seção 2. O usuário esqueceu a senha
 
-> **Assuntos relacionados:** [Seção 4. A habilitação está revogada](#secao-4-a-habilitacao-esta-revogada) | [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 1. A habilitação está revogada](#secao-1-a-habilitacao-esta-revogada) | [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Confirme se você é responsável por esse cadastro. Depois, gere uma senha provisória.
@@ -55,9 +55,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 ---
 
-## Seção 6. O usuário está inativo
+## Seção 3. O usuário está inativo
 
-> **Assuntos relacionados:** [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Reative o usuário. O cadastro fica inativo quando o usuário passa mais de 45 dias sem trocar a senha.
@@ -76,9 +76,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 ---
 
-## Seção 7. O usuário está bloqueado
+## Seção 4. O usuário está bloqueado
 
-> **Assuntos relacionados:** [Seção 5. O usuário esqueceu a senha](#secao-5-o-usuario-esqueceu-a-senha) | [Seção 6. O usuário está inativo](#secao-6-o-usuario-esta-inativo)
+> **Assuntos relacionados:** [Seção 2. O usuário esqueceu a senha](#secao-2-o-usuario-esqueceu-a-senha) | [Seção 3. O usuário está inativo](#secao-3-o-usuario-esta-inativo)
 
 !!! tip "Resposta Rápida"
     **Dica:** Libere o bloqueio. O bloqueio ocorre após tentativas consecutivas de entrada com senhas inválidas.
@@ -88,7 +88,7 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 1. **Acesse a rotina:** Navegue até `ADMUSU > ATZUSU > LIBUSUBLOQ`.
 2. **Informe o usuário:** Informe os dados do usuário que precisa ser desbloqueado.
 3. **Confirme a liberação:** Conclua a operação no sistema.
-4. **Oriente nova tentativa:** Se o usuário não lembrar a senha, use a troca de senha ([Seção 5](#secao-5-o-usuario-esqueceu-a-senha)).
+4. **Oriente nova tentativa:** Se o usuário não lembrar a senha, use a troca de senha ([Seção 2](#secao-2-o-usuario-esqueceu-a-senha)).
 
 !!! warning "Não Faça"
     **Atenção:** Não faça inclusão nem reativação se a condição for somente bloqueio.
@@ -98,9 +98,9 @@ Este capítulo apresenta os procedimentos corretos para tratar falhas de autenti
 
 ---
 
-## Seção 8. O usuário não consegue entrar porque a sessão anterior continua aberta
+## Seção 5. O usuário não consegue entrar porque a sessão anterior continua aberta
 
-> **Assuntos relacionados:** [Seção 7. O usuário está bloqueado](#secao-7-o-usuario-esta-bloqueado)
+> **Assuntos relacionados:** [Seção 4. O usuário está bloqueado](#secao-4-o-usuario-esta-bloqueado)
 
 !!! tip "Resposta Rápida"
     **Dica:** Libere a sessão anterior. Depois, peça ao usuário que tente entrar novamente.
