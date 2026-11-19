@@ -77,18 +77,18 @@ Cadastrar uma pessoa e liberar seu acesso a um sistema são etapas distintas. Pr
 
 | Nº | Demanda Recebida | Primeira Ação | Onde Consultar |
 | :---: | :--- | :--- | :--- |
-| **01** | O usuário já possui acesso a outro sistema | Verifique a habilitação. | [Capítulo 1 <br> Seção 1](01-cadastro-e-habilitacao.md#secao-1-o-cadastro-ja-existe) |
-| **02** | O usuário ainda não está cadastrado | Inclua no Senha-Rede. | [Capítulo 1 <br> Seção 2](01-cadastro-e-habilitacao.md#secao-2-o-usuario-ainda-nao-esta-cadastrado) |
-| **03** | O usuário não consegue acessar o SIASG | Confira sistema, perfil, UASG e nível. | [Capítulo 1 <br> Seção 3](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) |
-| **04** | A mensagem informa habilitação revogada | Troque a senha. | [Capítulo 2 <br> Seção 4](02-senhas-e-desbloqueios.md#secao-4-a-habilitacao-esta-revogada) |
-| **05** | O usuário esqueceu a senha | Gere senha provisória. | [Capítulo 2 <br> Seção 5](02-senhas-e-desbloqueios.md#secao-5-o-usuario-esqueceu-a-senha) |
-| **06** | A mensagem informa usuário inativo | Reative o cadastro. | [Capítulo 2 <br> Seção 6](02-senhas-e-desbloqueios.md#secao-6-o-usuario-esta-inativo) |
-| **07** | A mensagem informa usuário bloqueado | Libere o bloqueio. | [Capítulo 2 <br> Seção 7](02-senhas-e-desbloqueios.md#secao-7-o-usuario-esta-bloqueado) |
-| **08** | A mensagem informa usuário em uso ou contexto preso | Libere a sessão. | [Capítulo 2 <br> Seção 8](02-senhas-e-desbloqueios.md#secao-8-o-usuario-nao-consegue-entrar-porque-a-sessao-anterior-continua-aberta) |
-| **09** | É necessário alterar perfil, UASG ou nível | Atualize a habilitação. | [Capítulo 3 <br> Seção 9](03-alteracoes-exclusoes-e-cadastradores.md#secao-9-preciso-alterar-perfil-uasg-ou-nivel) |
-| **10** | É necessário retirar o acesso ao SIASG | Exclua apenas do sistema. | [Capítulo 3 <br> Seção 10](03-alteracoes-exclusoes-e-cadastradores.md#secao-10-preciso-retirar-o-acesso-ao-siasg) |
-| **11** | É necessário excluir o cadastro da Senha-Rede | Avalie o impacto antes da exclusão física. | [Capítulo 3 <br> Seção 11](03-alteracoes-exclusoes-e-cadastradores.md#secao-11-preciso-excluir-o-usuario-da-senha-rede) |
-| **12** | É necessário habilitar outro cadastrador | Confirme nível e escopo antes da habilitação. | [Capítulo 3 <br> Seção 12](03-alteracoes-exclusoes-e-cadastradores.md#secao-12-preciso-habilitar-outro-cadastrador) |
+| **01** | O usuário já possui acesso a outro sistema | Verifique a habilitação. | [Capítulo 1<br>Seção 1](01-cadastro-e-habilitacao.md#secao-1-o-cadastro-ja-existe) |
+| **02** | O usuário ainda não está cadastrado | Inclua no Senha-Rede. | [Capítulo 1<br>Seção 2](01-cadastro-e-habilitacao.md#secao-2-o-usuario-ainda-nao-esta-cadastrado) |
+| **03** | O usuário não consegue acessar o SIASG | Confira sistema, perfil, UASG e nível. | [Capítulo 1<br>Seção 3](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) |
+| **04** | A mensagem informa habilitação revogada | Troque a senha. | [Capítulo 2<br>Seção 1](02-senhas-e-desbloqueios.md#secao-1-a-habilitacao-esta-revogada) |
+| **05** | O usuário esqueceu a senha | Gere senha provisória. | [Capítulo 2<br>Seção 2](02-senhas-e-desbloqueios.md#secao-2-o-usuario-esqueceu-a-senha) |
+| **06** | A mensagem informa usuário inativo | Reative o cadastro. | [Capítulo 2<br>Seção 3](02-senhas-e-desbloqueios.md#secao-3-o-usuario-esta-inativo) |
+| **07** | A mensagem informa usuário bloqueado | Libere o bloqueio. | [Capítulo 2<br>Seção 4](02-senhas-e-desbloqueios.md#secao-4-o-usuario-esta-bloqueado) |
+| **08** | A mensagem informa usuário em uso ou contexto preso | Libere a sessão. | [Capítulo 2<br>Seção 5](02-senhas-e-desbloqueios.md#secao-5-o-usuario-nao-consegue-entrar-porque-a-sessao-anterior-continua-aberta) |
+| **09** | É necessário alterar perfil, UASG ou nível | Atualize a habilitação. | [Capítulo 3<br>Seção 1](03-alteracoes-exclusoes-e-cadastradores.md#secao-1-preciso-alterar-perfil-uasg-ou-nivel) |
+| **10** | É necessário retirar o acesso ao SIASG | Exclua apenas do sistema. | [Capítulo 3<br>Seção 2](03-alteracoes-exclusoes-e-cadastradores.md#secao-2-preciso-retirar-o-acesso-ao-siasg) |
+| **11** | É necessário excluir o cadastro da Senha-Rede | Avalie o impacto antes da exclusão física. | [Capítulo 3<br>Seção 3](03-alteracoes-exclusoes-e-cadastradores.md#secao-3-preciso-excluir-o-usuario-da-senha-rede) |
+| **12** | É necessário habilitar outro cadastrador | Confirme nível e escopo antes da habilitação. | [Capítulo 3<br>Seção 4](03-alteracoes-exclusoes-e-cadastradores.md#secao-4-preciso-habilitar-outro-cadastrador) |
 
 ### Tabela de Decisão: Mensagem, Causa e Rotina
 
