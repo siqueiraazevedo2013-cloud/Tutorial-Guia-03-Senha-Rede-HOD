@@ -164,3 +164,39 @@
         margin: 2px 0;
     }
 }
+
+/* =========================================================
+   AJUSTE DE TABELAS — SEM BARRA DE ROLAGEM HORIZONTAL
+   ========================================================= */
+.wy-table-responsive {
+    overflow-x: visible !important;
+    max-width: 100% !important;
+    margin-bottom: 1.5em;
+}
+
+.wy-table-responsive table,
+.wy-nav-content table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: auto !important;
+    border-collapse: collapse;
+    margin-bottom: 1.5em;
+}
+
+.wy-table-responsive table th,
+.wy-table-responsive table td,
+.wy-nav-content table th,
+.wy-nav-content table td {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    word-break: normal !important;
+    vertical-align: top;
+    padding: 8px 10px !important;
+}
+
+/* Impede que a primeira coluna (Nº) fique larga demais nas tabelas numeradas */
+.wy-nav-content table th:first-child,
+.wy-nav-content table td:first-child {
+    width: auto;
+}
