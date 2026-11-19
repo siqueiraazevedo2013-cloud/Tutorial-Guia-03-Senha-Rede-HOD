@@ -207,19 +207,22 @@ div.wy-table-responsive table.docutils td,
 }
 
 /* =========================================================
-   ESTILIZAÇÃO DE CÓDIGOS E ROTINAS INLINE (TAG <code>)
-   Substitui a caixa vermelha padrão por texto azul institucional
+   SOBRESCRITA DEFINITIVA DE CÓDIGOS INLINE (TAG <code>)
    ========================================================= */
-.wy-nav-content code,
-.rst-content code,
-.rst-content tt,
-table code {
-    color: #0b4f8a !important;           /* Mesmo tom de azul institucional usado no manual */
-    font-family: inherit !important;      /* Mesma família tipográfica do texto corrido */
-    font-size: 1em !important;            /* Mesmo tamanho da fonte do texto ao redor */
-    font-weight: 700 !important;          /* Destaque em negrito limpo */
-    background: transparent !important;   /* Remove o fundo em caixinha */
-    border: none !important;              /* Remove a borda cinza */
-    padding: 0 !important;                /* Remove o espaçamento interno da caixa */
-    white-space: normal !important;       /* Permite quebrar linha naturalmente se necessário */
+html body .wy-nav-content .rst-content code,
+html body .wy-nav-content .rst-content tt,
+html body .wy-nav-content code,
+html body .rst-content code,
+html body .rst-content table.docutils code,
+html body table code {
+    color: #0b4f8a !important;
+    font-family: "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif !important;
+    font-size: 100% !important;
+    font-weight: 700 !important;
+    background-color: transparent !important;
+    background: none !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    white-space: normal !important;
 }
