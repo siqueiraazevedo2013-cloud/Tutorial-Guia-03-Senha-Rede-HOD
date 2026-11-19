@@ -12,9 +12,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## Seção 9. Preciso alterar perfil, UASG ou nível
+## Seção 1. Preciso alterar perfil, UASG ou nível
 
-> **Assuntos relacionados:** [Seção 3. O usuário está cadastrado, mas não acessa o SIASG](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Capítulo 1 — Seção 3. O usuário está cadastrado, mas não acessa o SIASG](01-cadastro-e-habilitacao.md#secao-3-o-usuario-esta-cadastrado-mas-nao-acessa-o-siasg) | [Seção 2. Preciso retirar o acesso ao SIASG](#secao-2-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Altere apenas os perfis, a UASG ou o nível indicados no pedido autorizado.
@@ -34,9 +34,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## Seção 10. Preciso retirar o acesso ao SIASG
+## Seção 2. Preciso retirar o acesso ao SIASG
 
-> **Assuntos relacionados:** [Seção 11. Preciso excluir o usuário da Senha-Rede](#secao-11-preciso-excluir-o-usuario-da-senha-rede)
+> **Assuntos relacionados:** [Seção 3. Preciso excluir o usuário da Senha-Rede](#secao-3-preciso-excluir-o-usuario-da-senha-rede)
 
 !!! tip "Resposta Rápida"
     **Dica:** Exclua a habilitação do SIASG. Não exclua fisicamente o cadastro.
@@ -56,9 +56,9 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## Seção 11. Preciso excluir o usuário da Senha-Rede
+## Seção 3. Preciso excluir o usuário da Senha-Rede
 
-> **Assuntos relacionados:** [Seção 10. Preciso retirar o acesso ao SIASG](#secao-10-preciso-retirar-o-acesso-ao-siasg)
+> **Assuntos relacionados:** [Seção 2. Preciso retirar o acesso ao SIASG](#secao-2-preciso-retirar-o-acesso-ao-siasg)
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de excluir o cadastro, confirme se a exclusão é necessária, se foi autorizada e se você pode realizá-la. A operação remove também todas as habilitações vinculadas.
@@ -78,7 +78,7 @@ Este capítulo reúne as rotinas de atualização de parâmetros de acesso (perf
 
 ---
 
-## Seção 12. Preciso habilitar outro cadastrador
+## Seção 4. Preciso habilitar outro cadastrador
 
 !!! tip "Resposta Rápida"
     **Dica:** Antes de habilitar o cadastrador, confira em qual nível, órgão, sistemas e unidades ele poderá atuar.
